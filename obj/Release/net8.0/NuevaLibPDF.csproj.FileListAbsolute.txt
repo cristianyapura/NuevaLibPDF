@@ -1,0 +1,12 @@
+/home/cristian/Pryectos-Net/NuevaLibPDF/bin/Release/net8.0/NuevaLibPDF.deps.json
+/home/cristian/Pryectos-Net/NuevaLibPDF/bin/Release/net8.0/NuevaLibPDF.dll
+/home/cristian/Pryectos-Net/NuevaLibPDF/bin/Release/net8.0/NuevaLibPDF.pdb
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.csproj.AssemblyReference.cache
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.AssemblyInfoInputs.cache
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.AssemblyInfo.cs
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.csproj.CoreCompileInputs.cache
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.dll
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/refint/NuevaLibPDF.dll
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/NuevaLibPDF.pdb
+/home/cristian/Pryectos-Net/NuevaLibPDF/obj/Release/net8.0/ref/NuevaLibPDF.dll
